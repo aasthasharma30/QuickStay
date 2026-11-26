@@ -266,6 +266,7 @@ Open **http://localhost:5173** in your browser.
 ## Author
 
 Aastha Sharma
+
 College project: Graphic Era Deemed To Be University
 
 ---
